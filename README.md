@@ -2,7 +2,7 @@
 
 ### I am [**_Niraj Khatri_**](https://ace-niraj.github.io/niraj_portfolio/ 'https://ace-niraj.github.io/niraj_portfolio/'){:target="_blank"}. A Javascript developer from Nepal.
 
-### I am <a href="https://ace-niraj.github.io/niraj_portfolio/" target='_blank'>Niraj Khatri</a>
+### I am <a href="https://ace-niraj.github.io/niraj_portfolio/" target='\_blank'>Niraj Khatri</a>
 <!--
 **nirajkhatri/nirajkhatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
